@@ -1,1 +1,1 @@
-# proprietary_vendor_xiaomi_mido
+# Xiaomi Redmi Note 4 (mido) - Proprietary Vendor Blobs
